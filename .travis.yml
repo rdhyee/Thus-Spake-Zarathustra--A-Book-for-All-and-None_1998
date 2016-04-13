@@ -50,7 +50,7 @@ deploy:
     - Thus-Spake-Zarathustra-A-Book-for-All-and-None.mobi
     - Thus-Spake-Zarathustra-A-Book-for-All-and-None.pdf
   "on":
-    repo: GITenberg/Thus-Spake-Zarathustra-A-Book-for-All-and-None_1998
+    repo: GITenberg/Thus-Spake-Zarathustra--A-Book-for-All-and-None_1998
 addons:
   apt:
     packages:
